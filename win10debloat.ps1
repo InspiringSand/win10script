@@ -12,7 +12,8 @@
 #
 #	Addition: One command to rule them all, One command to find it, and One command to Run it! 
 #
-#     > powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JJ8R4')"
+#	The git.io link is short for https://raw.githubusercontent.com/InspiringSand/win10script/master/win10debloat.ps1
+#     > powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JJ6Em')"
 #
 #	Chris Titus Additions:
 #
